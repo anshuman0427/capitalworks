@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 100" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">CapitalWorks</title>
+  <g fill="#1c2826">
+    <path d="M8 70 18 67V51L8 54z"/>
+    <path d="M23 63 33 60V38L23 41z"/>
+    <path d="M38 56 48 53V25L38 28z"/>
+  </g>
+  <text x="65" y="69" fill="#1c2826" font-family="Manrope, Arial, Helvetica, sans-serif" font-size="48" letter-spacing="-2.2">
+    <tspan font-weight="700">Capital</tspan><tspan font-weight="400">Works</tspan>
+  </text>
+</svg>
